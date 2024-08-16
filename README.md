@@ -7,3 +7,4 @@
 - Heloisa: 27 ao 39
 - Vitor: 40 ao 52
 - Filipe: 53 ao 65
+>>>>>>> main
