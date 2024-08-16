@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Squad-03
-Solução das tarefas propostas na Squad 03
-=======
 # Squad 3
 
 ## Solução dos exercícios da lista 2
