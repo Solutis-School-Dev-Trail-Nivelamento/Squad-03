@@ -1,2 +1,0 @@
-package Squad-03;
-
