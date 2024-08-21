@@ -12,7 +12,7 @@ public class Exercicio23 {
 
         System.out.print("Digite o mês de nascimento de " + nome1 + ": ");
         int mes1 = scanner.nextInt();
-        scanner.nextLine(); // Limpa o buffer do scanner
+        scanner.nextLine();
 
         System.out.print("Digite o nome da segunda pessoa: ");
         String nome2 = scanner.nextLine();
