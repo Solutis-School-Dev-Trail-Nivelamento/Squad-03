@@ -1,4 +1,4 @@
-package Exercicios1ao13BeatrizLista2;
+package Lista2;
 
 import java.util.Scanner;
 
@@ -15,7 +15,7 @@ public class Q13 {
         if(media >= 7) {
             System.out.println("Aprovado!");
         } else if(media >= 5 && media < 7) {
-            System.out.println("Recuperação.");
+            System.out.println("Recuperação. Deve fazer prova final!");
             System.out.print("Insira a nota da prova final: ");
             double notaFinal = sc.nextDouble();
             if(notaFinal >= 5) {

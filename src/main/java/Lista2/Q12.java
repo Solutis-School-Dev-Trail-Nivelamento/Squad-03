@@ -1,4 +1,4 @@
-package Exercicios1ao13BeatrizLista2;
+package Lista2;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ public class Q12 {
         Scanner sc = new Scanner(System.in); 
         System.out.print("Insira a primeira nota: "); 
         double nota1 = sc.nextDouble(); 
-        System.out.print("Insira a aegunda nota: "); 
+        System.out.print("Insira a segunda nota: "); 
         double nota2 = sc.nextDouble(); 
         System.out.print("Insira a terceira nota: "); 
         double nota3 = sc.nextDouble(); 

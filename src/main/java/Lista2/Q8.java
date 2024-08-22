@@ -1,4 +1,4 @@
-package Exercicios1ao13BeatrizLista2;
+package Lista2;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

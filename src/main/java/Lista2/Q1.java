@@ -1,4 +1,4 @@
-package Exercicios1ao13BeatrizLista2;
+package Lista2;
 
 import java.util.Scanner;
 public class Q1 {
@@ -9,7 +9,7 @@ public class Q1 {
 	   System.out.println("Informe o ano atual:");
 	   int anoAtual= sc.nextInt();
 	   int idade=anoAtual-ano;
-	   System.out.println("Sua idade é " + idade +" anos.");
+	   System.out.println("Você tem " + idade +" anos de idade.");
 	   sc.close();
    }
        

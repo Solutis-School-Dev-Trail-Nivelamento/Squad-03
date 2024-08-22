@@ -1,4 +1,4 @@
-package Exercicios1ao13BeatrizLista2;
+package Lista2;
 
 public class Q6
 {
