@@ -44,7 +44,7 @@ public class Exercicio29 {
             System.out.println("A área do retângulo é: " + area);
         }
 
-        System.out.println("Insira as coordenadas de um ponto (x, y):");
+        System.out.println("Insira as coordenadas de um ponto (x y):");
         Ponto p = new Ponto(sc.nextDouble(), sc.nextDouble());
 
         String posicao = retangulo.verificarPosicao(p);
