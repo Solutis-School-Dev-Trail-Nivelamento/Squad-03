@@ -1,4 +1,4 @@
-package Lista02.Exercicio29;
+package Heloisa.Exercicio29;
 
 class Retangulo {
     Ponto superiorEsquerdo, inferiorDireito;

@@ -1,4 +1,4 @@
-package Lista02;
+package Heloisa;
 
 /*35.Exiba uma quantidade de números sorteados determinada pelo usuário.
 Peça também que o usuário determine a faixa do sorteio.*/
