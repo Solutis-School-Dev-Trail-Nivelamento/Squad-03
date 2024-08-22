@@ -1,4 +1,4 @@
-package Lista02;
+package Heloisa;
 
 /*33.Exiba todos os números pares de 10 a 200.*/
 

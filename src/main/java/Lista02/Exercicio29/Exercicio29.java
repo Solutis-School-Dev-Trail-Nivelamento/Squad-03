@@ -1,4 +1,4 @@
-package Lista02.Exercicio29;
+package Heloisa.Exercicio29;
 
 /*Receba do usuário dois pontos do plano cartesiano. Estes pontos devem representar os
 vértices superior esquerdo e inferior direito de um retângulo paralelo aos eixos x e y.

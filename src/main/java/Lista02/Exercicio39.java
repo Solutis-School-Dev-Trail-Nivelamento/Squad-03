@@ -1,4 +1,4 @@
-package Lista02;
+package Heloisa;
 
 /*39. Verifique se um número é perfeito, ou seja, se a soma dos seus divisores (exceto o próprio
 número) é igual a ele mesmo.*/

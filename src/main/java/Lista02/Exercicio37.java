@@ -1,4 +1,4 @@
-package Lista02;
+package Heloisa;
 
 /*37.Calcule o fatorial de um número.*/
 

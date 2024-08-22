@@ -1,11 +1,11 @@
-package Lista02.Exercicio30;
+package Heloisa.Exercicio30;
 
 /*30. Receba dois retângulos através dos seus quatro vértices. Cada vértice é um ponto e é
 formado por duas coordenadas x e y. Faça a crítica destes pontos, pois eles não podem se
 sobrepor. Observe que o usuário pode fornecê-los em qualquer ordem. Em seguida informe
 se os dois retângulos se interceptam em algum lugar.*/
 
-import Lista02.Exercicio29.Ponto;
+import Heloisa.Exercicio29.Ponto;
 
 import java.util.Scanner;
 

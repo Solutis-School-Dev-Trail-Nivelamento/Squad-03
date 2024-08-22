@@ -1,4 +1,4 @@
-package Lista02;
+package Heloisa;
 
 /*38. Verifique se um número é primo ou não.*/
 

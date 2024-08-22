@@ -1,6 +1,6 @@
-package Lista02.Exercicio30;
+package Heloisa.Exercicio30;
 
-import Lista02.Exercicio29.Ponto;
+import Heloisa.Exercicio29.Ponto;
 
 class Retangulo {
     Ponto p1, p2, p3, p4;

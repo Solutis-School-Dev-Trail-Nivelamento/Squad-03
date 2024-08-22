@@ -1,4 +1,4 @@
-package Lista02;
+package Heloisa;
 
 /*36.Exiba todos os números ímpares existentes entre dois números informados pelo usuário.
 Dica: use o operador % para calcular o resto da divisão entre dois números.

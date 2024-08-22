@@ -1,4 +1,4 @@
-package Lista02;
+package Heloisa;
 
 /*31.Exiba mil vezes o número 100.*/
 
