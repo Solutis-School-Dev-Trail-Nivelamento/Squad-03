@@ -1,8 +1,8 @@
-package PacoteBase;
+package Lista02;
 
 import java.util.Scanner;
 
-public class Exercicio63 {
+public class Exercicio61 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -11,7 +11,7 @@ public class Exercicio63 {
 
         for (int i = 1; i <= linhas; i++) {
             for (int j = 1; j <= i; j++) {
-                System.out.print(String.format("%02d ", j));
+                System.out.print("*");
             }
             System.out.println();
         }

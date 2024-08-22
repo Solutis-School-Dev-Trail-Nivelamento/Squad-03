@@ -1,4 +1,4 @@
-package PacoteBase;
+package Lista02;
 
 public class Exercicio59 {
     public static void main(String[] args) {
